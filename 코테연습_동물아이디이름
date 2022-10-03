@@ -1,0 +1,5 @@
+SELECT ANIMAL_ID, NAME FROM ANIMAL_INS 
+# ANIMAL_INS 테이블의 ANIMAL_ID, NAME의 열을 보여줌
+ORDER BY ANIMAL_ID ASC
+#order by column_name asc -> 오름차순
+#    ' '              desc -> 내림차순
